@@ -69,7 +69,6 @@ const Home = () => {
     return prps;
   };
   const modeManager = (mode) => {
-    console.log(mode);
     setMode(mode);
   };
 

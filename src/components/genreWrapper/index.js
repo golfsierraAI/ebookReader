@@ -66,7 +66,6 @@ const GenreWrapper = ({ props, mode }) => {
       });
     });
   }, []);
-  console.log(mode);
 
   return (
     genres.size > 0 &&
